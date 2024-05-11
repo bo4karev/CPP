@@ -19,4 +19,5 @@ cout << "4. 2^x = " << (2^x) << endl;
 cout << "5. cos(x+5)^2 = " << cos(x+5)*cos(x+5)<< endl;
 
 return 0;
+
 }
